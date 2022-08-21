@@ -5,7 +5,7 @@
 
 - 📷​ Passionate about photography [https://www.instagram.com/julien_gustin/](https://www.instagram.com/julien_gustin/)
 
-- 📃​ My CV [https://github.com/Julien-Gustin/Julien-Gustin/blob/main/Julien_Gustin_CV.pdf](https://github.com/Julien-Gustin/Julien-Gustin/blob/main/Julien_Gustin_CV.pdf)
+- 📃​ My CV [https://github.com/Julien-Gustin/Julien-Gustin/blob/main/CV.pdf](https://github.com/Julien-Gustin/Julien-Gustin/blob/main/CV.pdf)
 
 - 📫 How to reach me **juliengustin02@gmail.com**
 
