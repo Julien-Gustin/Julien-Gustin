@@ -3,6 +3,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Julien-Gustin?tab=repositories](https://github.com/Julien-Gustin?tab=repositories)
 
+- 🧗​Love climbing, cycling and traveling 
+
+- ​🤖​ I Am interested in Computer science, Machine Learning and Deep Learning
+
 - 📷​ Passionate about photography [https://www.instagram.com/julien_gustin/](https://www.instagram.com/julien_gustin/)
 
 - 📃​ My CV [https://github.com/Julien-Gustin/Julien-Gustin/blob/main/CV.pdf](https://github.com/Julien-Gustin/Julien-Gustin/blob/main/CV.pdf)
@@ -13,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/gustin_julien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustin_julien" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julien-gustin-bb3151214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-gustin-bb3151214" height="30" width="40" /></a>
-<a href="https://instagram.com/@julien_gustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@julien_gustin" height="30" width="40" /></a>
+<a href="https://instagram.com/julien_gustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@julien_gustin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
