@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
-<h3 align="center">Master’s Student in Data Science at @ULiege, I have an high interest about Machine Learning and Computer Science.</h3>
+<h3 align="center">Master’s Student in Data Science at @ULiege, I have an high interest about Deep Learning and Computer Science.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Julien-Gustin?tab=repositories](https://github.com/Julien-Gustin?tab=repositories)
 
